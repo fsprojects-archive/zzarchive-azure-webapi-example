@@ -1,4 +1,4 @@
-# azure-suave
+# F# Azure WebAPI Example Application
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 
